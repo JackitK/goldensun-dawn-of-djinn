@@ -37,6 +37,16 @@ Furthermore, Djinn Charms count as a ring equipment, meaning you can only have o
 equip an actually ring item unequips the Djinn Charm.
 
 
+Where's the dialouge?
+For the sake of easier playtesting, I used a verison of Golden Sun that had dialouge turned off for all my work with Version 1.0...
+Due to the nature of working off a copy of Golden Sun that already had the dialouge remove, rather than patching it out myself, I have
+to basically start with a fresh new patch in order to make a version with the dialouge on.  This dialouge version of the mod is planned
+to be made for either a 1.5 or 2.0 release, but I figured since everything else is set to share already that I would release my dialougeless
+1.0 version while I'm reworking a dilaouge verison, hopefully taking advantage of starting from scratch to clean up some "code" that
+I probably made a mess of putting 1.0 together.  No set release date for the dialouge version yet, 
+but it shouldn't take nearly as long as it has for me to make version 1 in the first place.  I appoglize in advance to everyone who was
+looking forward to enjoying the full experience of Golden Sun's story while playing this mod.
+
 Avoid toggles on and off but monster encounters are still gone, how do I fix this?
 This is bug seems to be caused by saving and quitting the game while avoid is still toogled on.
 So first and foremost, getting in the habit of turning off Avoid when you don't need it can be helpful.
