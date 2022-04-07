@@ -120,7 +120,7 @@ I probably made a mess of putting 1.0 together.  No set release date for the dia
 but it shouldn't take nearly as long as it has for me to make version 1 in the first place.  I apologize in advance to everyone who was
 looking forward to enjoying the full experience of Golden Sun's story while playing this mod.
 
-## Avoid toggles on and off but monster encounters are still gone, how do I fix this?
+### Avoid toggles on and off but monster encounters are still gone, how do I fix this?
 This is bug seems to be caused by saving and quitting the game while avoid is still toggled on.
 So first and foremost, getting in the habit of turning off Avoid when you don't need it can be helpful.
 If you do run into this bug however it is fixable with a little work.
