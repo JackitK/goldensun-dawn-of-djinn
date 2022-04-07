@@ -72,14 +72,14 @@ Psynergy items also behave differently as well.  Often when you first encounter 
 
 # FAQ
 
-## How do I install and play Dawn of Djinn?
+### How do I install and play Dawn of Djinn?
 1.) Download the patch.
 2.) Have your copy of Golden Sun for the GBA ready
 	-Make sure you use a clean copy, patching something already patched is not recommended.
 3.) Use Lunar IPS to patch it to your copy of Golden Sun
 
 
-## Is Dawn of Djinn hard?
+### Is Dawn of Djinn hard?
 Dawn of Djinn by default is harder than the orginal Golden Sun, but is not intended to be "brutally hard".
 Previous experience with the Golden Sun series is recommended before jumping in.
 
@@ -90,7 +90,7 @@ However, if you find a normal playthrough of this mod to be too easy or hard, yo
 the difficulty by equipping either the "Casual Key" or the "Brutal Key" to all your party members.
 
 
-## How do the Brutal Key and Casual Key Affect Combat?
+### How do the Brutal Key and Casual Key Affect Combat?
 When equipped, the Casual Key will boost your stats similarly to how the enemies are boosted in this mod,
 plus gives a multiplier on your max PP to compensate for Psynergy costing more to cast in this mod.
 It also has an outside of battle use that will recover all of your party's Psynergy, in case you prefer
@@ -98,20 +98,20 @@ RPGs where you only have to manage your stats during battle. It is completely op
 The Brutal Key divides your stats, making you weaker than when unequipped.
 
 
-## Where do I find the Brutal/Casual Key?
+### Where do I find the Brutal/Casual Key?
 In Vale, the shop has been readjusted to have both these key items in their armor section for free.
 You'll also find the Casual Key in Vault's shop, in case you forget to backtrack.
 
 
 
-## How does equipping Djinn Charms work?
+### How does equipping Djinn Charms work?
 Djinn charm are elementally aligned, meaning they can only be equipped by an Adept that shares there element.
 Only Isaac can equip Venus Charms, Garret to Mars, Ivan to Jupiter, and Mia to Mercury.
 Furthermore, Djinn Charms count as a ring equipment, meaning you can only have one equipped at a time, and trying
 equip an actually ring item unequips the Djinn Charm.
 
 
-## Where's the dialogue?
+### Where's the dialogue?
 For the sake of easier playtesting, I used a version of Golden Sun that had dialogue turned off for all my work with Version 1.0...
 Due to the nature of working off a copy of Golden Sun that already had the dialogue remove, rather than patching it out myself, I have
 to basically start with a fresh new patch in order to make a version with the dialogue on.  This dialogue version of the mod is planned
@@ -129,14 +129,14 @@ If you do run into this bug however it is fixable with a little work.
 -When you toggle Avoid off now, monsters should appear like normal.
 
 
-## Soo..umm..sometimes the sprites of enemies and party members disappear in battle. Is this supposed to happen?
+### Soo..umm..sometimes the sprites of enemies and party members disappear in battle. Is this supposed to happen?
 No, but I can't fix all of them.  If it happens in a random encounter, it was likely an oversight
 of trying to squeeze too many enemies into that fight and I can adjust it with feedback.  
 If it happens during a boss fight, I likely already noticed it but decided not to fix it due to it having too
 big of impact on the fight if I flat out removed an enemy.
 
 
-## How do I progress through ____?
+### How do I progress through ____?
 Lack of dialogue in version 1 may make certain plot areas a little obtuse.
 Feel free to reference the "Event Trigger Notes" text file if you get stuck on your adventure.
 In addition there are other text files included in the care package that act as Cheat Sheets for Djinn,
