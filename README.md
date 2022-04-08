@@ -1,10 +1,11 @@
-# goldensun-dawn-of-djinn
+# Golden Sun: Dawn Of Djinn
 
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
 https://discord.com/invite/Bmm9GHSdWD
 
 ## Latest verison: v1.0.00
-Updates: None yet, this is the first version
+Updates: None yet, this is the first version.  
+Currently dialougless only.  Will make a secondary dialouge version by the time I reach 2.0...
 
 # Overview:
 “Golden Sun: Dawn of Djinn” is a remixed version of the first game of the Golden Sun series. Featuring new Djinn, new Psynergy/battle abilities, and new challenges to overcome. Adjustments that tie into battle mechanics have been adjusted as well, not only to give more purpose to various methods of combat, but to encourage the use of features Dawn of Djinn specializes in.  Plus this adventure takes quality of life improvements from mods like the Golden Sun Randomizer and builds off them to make travel outside of battle more enjoyable.
