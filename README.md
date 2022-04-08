@@ -3,7 +3,7 @@
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.0.00
+## Latest verison: v1.0.01
 Updates: None yet, this is the first version.  
 Currently dialougless only.  Will make a secondary dialouge version by the time I reach 2.0...
 
