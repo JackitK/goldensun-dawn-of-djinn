@@ -70,6 +70,7 @@ Psynergy items also behave differently as well.  Often when you first encounter 
 - I'm almost certain that certain that certain mechanics are going to need to be rebalanced, despite my long period of playtesting.  Playtesting was focused more on making sure bosses were more of a challenge than Vanilla Golden Sun, but not impossible to beat.  Testing and adjusting balance between the various mechanics had minor presence but was not the main focus.
 - For example, summons still do more damage than I was expecting with the nerf to their power, so I am considering reworking that entire system for Version 2.
 - I'm sure there's other oversights that I've discovered but can't remember at this moment. I'll be sure to update this read-me as I remember them and as others discover them in thier playthrough.
+- **NEW** Some typos were found in in-game text used in the trailer. These have been fixed in the latest patch.
 
 # FAQ
 
