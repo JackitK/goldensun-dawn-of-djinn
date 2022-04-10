@@ -3,9 +3,19 @@
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.0.01
-Updates: None yet, this is the first version.  
-Currently dialougless only.  Will make a secondary dialouge version by the time I reach 2.0...
+## Latest verison: v1.1.00
+---VERSION 1.1.0--
+Thanks to feedback from the Discord, I was able to fix quad-elemental class so the requirements are consistent across all party members. Also made some updates to the move pool of these classes as well as some balance related changes tied to a Psynergy that would otherwise be available to every party member....
+
+-All party members can now access Lv. 1 of the quad-elemental class for 1 Djinn of each element (minus their default element). Even Isaac and Mia.
+-All party members can now access Lv. 2 of the quad-elemental class for 2 Djinn of each element (minus their default element). Even Isaac and Mia.
+-Changes have been made to make Cloak and similar abilities less accessible to avoid a situation where every member of the party can have the move at the exact time.
+	-Mist replaces Cloak in the Toolsmith class for all party members. In exchange, Mist now functions like Cloak outside of battle.
+	-The previously existing "Conceal" is no longer a Cloak clone for more PP.
+		-Still functions like Cloak outside of battle. Inside battle it lets you strike a foe for wind damage with a chance to ignore half a foe's defense.
+	-Cloak the way you normally obtain it still has it's new effect.
+-Toolsmith abilites have been slightly altered, especially on Isaac's varient.
+-Tangling Growth's name has been changed to Tangle Plant to fit better in menus.
 
 # Overview:
 “Golden Sun: Dawn of Djinn” is a remixed version of the first game of the Golden Sun series. Featuring new Djinn, new Psynergy/battle abilities, and new challenges to overcome. Adjustments that tie into battle mechanics have been adjusted as well, not only to give more purpose to various methods of combat, but to encourage the use of features Dawn of Djinn specializes in.  Plus this adventure takes quality of life improvements from mods like the Golden Sun Randomizer and builds off them to make travel outside of battle more enjoyable.
@@ -70,7 +80,9 @@ Psynergy items also behave differently as well.  Often when you first encounter 
 - I'm almost certain that certain that certain mechanics are going to need to be rebalanced, despite my long period of playtesting.  Playtesting was focused more on making sure bosses were more of a challenge than Vanilla Golden Sun, but not impossible to beat.  Testing and adjusting balance between the various mechanics had minor presence but was not the main focus.
 - For example, summons still do more damage than I was expecting with the nerf to their power, so I am considering reworking that entire system for Version 2.
 - I'm sure there's other oversights that I've discovered but can't remember at this moment. I'll be sure to update this read-me as I remember them and as others discover them in thier playthrough.
-- **NEW** Some typos were found in in-game text used in the trailer. These have been fixed in the latest patch.
+- Some typos were found in in-game text used in the trailer. These have been fixed in the latest patch.
+-**NEW** Isaac and Mia's quad elemental classes previously required more Djinn than the other party members.  However this has been fixed in version 1.1.00.
+	TBH I was content playing this off as a feature but since I was given a lead to how to fix it, I went ahead and did so.
 
 # FAQ
 
