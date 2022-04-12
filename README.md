@@ -8,13 +8,19 @@ https://discord.com/invite/Bmm9GHSdWD
 Thanks to feedback from the Discord, I was able to fix quad-elemental class so the requirements are consistent across all party members. Also made some updates to the move pool of these classes as well as some balance related changes tied to a Psynergy that would otherwise be available to every party member....
 
 -All party members can now access Lv. 1 of the quad-elemental class for 1 Djinn of each element (minus their default element). Even Isaac and Mia.
+
 -All party members can now access Lv. 2 of the quad-elemental class for 2 Djinn of each element (minus their default element). Even Isaac and Mia.
+
 -Changes have been made to make Cloak and similar abilities less accessible to avoid a situation where every member of the party can have the move at the exact time.
-	-Mist replaces Cloak in the Toolsmith class for all party members. In exchange, Mist now functions like Cloak outside of battle.
-	-The previously existing "Conceal" is no longer a Cloak clone for more PP.
-		-Still functions like Cloak outside of battle. Inside battle it lets you strike a foe for wind damage with a chance to ignore half a foe's defense.
-	-Cloak the way you normally obtain it still has it's new effect.
+
+-Mist replaces Cloak in the Toolsmith class for all party members. In exchange, Mist now functions like Cloak outside of battle.
+	
+-The previously existing "Conceal" is no longer a Cloak clone for more PP.  It still functions like Cloak outside of battle. Inside battle it lets you strike a foe for wind damage with a chance to ignore half a foe's defense.
+		
+-Cloak the way you normally obtain it still has it's new effect.
+	
 -Toolsmith abilites have been slightly altered, especially on Isaac's varient.
+
 -Tangling Growth's name has been changed to Tangle Plant to fit better in menus.
 
 # Overview:
