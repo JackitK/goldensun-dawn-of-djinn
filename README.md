@@ -3,25 +3,14 @@
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.1.01 (will update with details of patch later)
----VERSION 1.1.0--
-Thanks to feedback from the Discord, I was able to fix quad-elemental class so the requirements are consistent across all party members. Also made some updates to the move pool of these classes as well as some balance related changes tied to a Psynergy that would otherwise be available to every party member....
+## Latest verison: v1.1.01 
+---VERSION 1.1.01--
+Majority of these updates are beyind the scene stuff you'd have to get way more Djinn on a single party member than would be possible in a normal playthrough. But I had a gut feeling to update it, just in case anyone ran into it...
 
--All party members can now access Lv. 1 of the quad-elemental class for 1 Djinn of each element (minus their default element). Even Isaac and Mia.
-
--All party members can now access Lv. 2 of the quad-elemental class for 2 Djinn of each element (minus their default element). Even Isaac and Mia.
-
--Changes have been made to make Cloak and similar abilities less accessible to avoid a situation where every member of the party can have the move at the exact time.
-
--Mist replaces Cloak in the Toolsmith class for all party members. In exchange, Mist now functions like Cloak outside of battle.
-	
--The previously existing "Conceal" is no longer a Cloak clone for more PP.  It still functions like Cloak outside of battle. Inside battle it lets you strike a foe for wind damage with a chance to ignore half a foe's defense.
-		
--Cloak the way you normally obtain it still has it's new effect.
-	
--Toolsmith abilites have been slightly altered, especially on Isaac's varient.
-
--Tangling Growth's name has been changed to Tangle Plant to fit better in menus.
+-Updated the classes you would hypnotically never have enough Djinn to reach in this game to have proper movepools. (I was lazy and didn't finish updating some of them under the assumption no one would normally be able to reach them.)
+-Added a 3rd tier to the new quad-elemental class.  It requires 3 Djinn of each element. Which shouldn't be possible on a normal playthrough, but it's there if you ever were to run into a scenario you can have 9 Djinn on a single party memember.
+-Some minor class movepool adjustments
+-Updated the name for Tangle Plant & Salvage Growth to Tangle Vine & Ruthless Vine.  Name change not only fits in character limits of menus better, but feels more fitting. With a name that differentiates it from the Growth line but is shared between them to indicate they are related.
 
 # Overview:
 “Golden Sun: Dawn of Djinn” is a remixed version of the first game of the Golden Sun series. Featuring new Djinn, new Psynergy/battle abilities, and new challenges to overcome. Adjustments that tie into battle mechanics have been adjusted as well, not only to give more purpose to various methods of combat, but to encourage the use of features Dawn of Djinn specializes in.  Plus this adventure takes quality of life improvements from mods like the Golden Sun Randomizer and builds off them to make travel outside of battle more enjoyable.
