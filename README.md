@@ -3,7 +3,7 @@
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.1.00
+## Latest verison: v1.1.01 (will update with details of patch later)
 ---VERSION 1.1.0--
 Thanks to feedback from the Discord, I was able to fix quad-elemental class so the requirements are consistent across all party members. Also made some updates to the move pool of these classes as well as some balance related changes tied to a Psynergy that would otherwise be available to every party member....
 
