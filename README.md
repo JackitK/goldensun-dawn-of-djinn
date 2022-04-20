@@ -8,8 +8,11 @@ https://discord.com/invite/Bmm9GHSdWD
 Majority of these updates are beyind the scene stuff you'd have to get way more Djinn on a single party member than would be possible in a normal playthrough. But I had a gut feeling to update it, just in case anyone ran into it...
 
 -Updated the classes you would hypnotically never have enough Djinn to reach in this game to have proper movepools. (I was lazy and didn't finish updating some of them under the assumption no one would normally be able to reach them.)
+
 -Added a 3rd tier to the new quad-elemental class.  It requires 3 Djinn of each element. Which shouldn't be possible on a normal playthrough, but it's there if you ever were to run into a scenario you can have 9 Djinn on a single party memember.
+
 -Some minor class movepool adjustments
+
 -Updated the name for Tangle Plant & Salvage Growth to Tangle Vine & Ruthless Vine.  Name change not only fits in character limits of menus better, but feels more fitting. With a name that differentiates it from the Growth line but is shared between them to indicate they are related.
 
 # Overview:
