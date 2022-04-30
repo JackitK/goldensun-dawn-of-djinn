@@ -1,6 +1,10 @@
 # Golden Sun: Dawn Of Djinn
+Trailer:
+https://www.youtube.com/watch?v=TOgLFmqg3tQ
 
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
+
+
 https://discord.com/invite/Bmm9GHSdWD
 
 ## Latest verison: v1.1.01 
