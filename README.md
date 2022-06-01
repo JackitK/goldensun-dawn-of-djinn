@@ -7,17 +7,13 @@ Best course to reach out to me to give feedback and report issues is over at my 
 
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.1.01 
----VERSION 1.1.01--
-Majority of these updates are beyind the scene stuff you'd have to get way more Djinn on a single party member than would be possible in a normal playthrough. But I had a gut feeling to update it, just in case anyone ran into it...
+## Latest verison: v1.1.02 
+---VERSION 1.1.02--
+Updated to fix a couple things I overlooked that I only noticed as I was livestreaming the mod.
 
--Updated the classes you would hypnotically never have enough Djinn to reach in this game to have proper movepools. (I was lazy and didn't finish updating some of them under the assumption no one would normally be able to reach them.)
+-Previously the Sapling Sword wasn't programmed right. Instead of bestowing Psynergy when equipped, you had to use it like an item. It now bestows Sprout when you equip it
 
--Added a 3rd tier to the new quad-elemental class.  It requires 3 Djinn of each element. Which shouldn't be possible on a normal playthrough, but it's there if you ever were to run into a scenario you can have 9 Djinn on a single party memember.
-
--Some minor class movepool adjustments
-
--Updated the name for Tangle Plant & Salvage Growth to Tangle Vine & Ruthless Vine.  Name change not only fits in character limits of menus better, but feels more fitting. With a name that differentiates it from the Growth line but is shared between them to indicate they are related.
+-Ponce Knife's power has been nerfed from 30 to 10 as I forgot to do so after changing how you got it so you could get it much earlier.  It's an Easter Egg more than anything so I don't mind if it's stupid weak as you should only be equipping it for the fun of it.
 
 # Overview:
 “Golden Sun: Dawn of Djinn” is a remixed version of the first game of the Golden Sun series. Featuring new Djinn, new Psynergy/battle abilities, and new challenges to overcome. Adjustments that tie into battle mechanics have been adjusted as well, not only to give more purpose to various methods of combat, but to encourage the use of features Dawn of Djinn specializes in.  Plus this adventure takes quality of life improvements from mods like the Golden Sun Randomizer and builds off them to make travel outside of battle more enjoyable.
