@@ -7,13 +7,12 @@ Best course to reach out to me to give feedback and report issues is over at my 
 
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.1.02 
----VERSION 1.1.02--
-Updated to fix a couple things I overlooked that I only noticed as I was livestreaming the mod.
+## Latest verison: v1.1.03
+---VERSION 1.1.03--
+Feeling confident this will be the last update for Dawn of Djinn (at least until I make version 2, which will probably be so different that it could count as a new Golden Sun mod anyways.)
 
--Previously the Sapling Sword wasn't programmed right. Instead of bestowing Psynergy when equipped, you had to use it like an item. It now bestows Sprout when you equip it
-
--Ponce Knife's power has been nerfed from 30 to 10 as I forgot to do so after changing how you got it so you could get it much earlier.  It's an Easter Egg more than anything so I don't mind if it's stupid weak as you should only be equipping it for the fun of it.
+- Made some adjustments to the levels you learned utility Psynergy in the Jack Adept and Toolsmith classes to reduce the odds of sequence breaking without grinding.
+- Made a minor adjustement to fix a boss while I was in the editor.
 
 # Overview:
 “Golden Sun: Dawn of Djinn” is a remixed version of the first game of the Golden Sun series. Featuring new Djinn, new Psynergy/battle abilities, and new challenges to overcome. Adjustments that tie into battle mechanics have been adjusted as well, not only to give more purpose to various methods of combat, but to encourage the use of features Dawn of Djinn specializes in.  Plus this adventure takes quality of life improvements from mods like the Golden Sun Randomizer and builds off them to make travel outside of battle more enjoyable.
@@ -92,8 +91,9 @@ Psynergy items also behave differently as well.  Often when you first encounter 
 
 
 ### Is Dawn of Djinn hard?
-Dawn of Djinn by default is harder than the orginal Golden Sun, but is not intended to be "brutally hard".
-Previous experience with the Golden Sun series is recommended before jumping in.
+- Dawn of Djinn by default is harder than the orginal Golden Sun, but is not intended to be "brutally hard". For example I think it's slightly easier than Golden Sun Reloaded.
+-Previous experience with the Golden Sun series is recommended. Though a more casual experience of the series should be acceptable with use of the casual key.
+- Dawn of Djinn goes under the assumption that you have collected but the 4 "Grand Djinn" before taking on the final boss and all Djinn before taking on the super boss.
 
 On average, monster's stats are mutiplied similarly to how they are in Lost Age's hard mode. Though movepools
 have been changed to make them more capable than normal, including with bosses.
@@ -126,11 +126,7 @@ equip an actually ring item unequips the Djinn Charm.
 ### Where's the dialogue?
 For the sake of easier playtesting, I used a version of Golden Sun that had dialogue turned off for all my work with Version 1.0...
 Due to the nature of working off a copy of Golden Sun that already had the dialogue remove, rather than patching it out myself, I have
-to basically start with a fresh new patch in order to make a version with the dialogue on.  This dialogue version of the mod is planned
-to be made for either a 1.5 or 2.0 release, but I figured since everything else is set to share already that I would release my dialogueless 1.0 version while I'm reworking a dialogue version, hopefully taking advantage of starting from scratch to clean up some "code" that
-I probably made a mess of putting 1.0 together.  No set release date for the dialogue version yet, 
-but it shouldn't take nearly as long as it has for me to make version 1 in the first place.  I apologize in advance to everyone who was
-looking forward to enjoying the full experience of Golden Sun's story while playing this mod.
+to basically start with a fresh new patch in order to make a version with the dialogue on.  So a dialogue version of the mod is planned for the 2.0 release along with all the additional updates and features planned for version 2... whenever I get around to making it.
 
 ### Avoid toggles on and off but monster encounters are still gone, how do I fix this?
 This is bug seems to be caused by saving and quitting the game while avoid is still toggled on.
