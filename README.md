@@ -7,12 +7,11 @@ Best course to reach out to me to give feedback and report issues is over at my 
 
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.1.03
----VERSION 1.1.03--
-Feeling confident this will be the last update for Dawn of Djinn (at least until I make version 2, which will probably be so different that it could count as a new Golden Sun mod anyways.)
+## Latest verison: v1.1.04
+---VERSION 1.1.04--
+Last version 1 update, for real this time.  The only reason this update is happening is because I noticed some pretty dumb oversights as I was comparing it to version 2 that were too bad to ignore.  Nothing game breaking but pretty dumb that I missed them in the first place.
 
-- Made some adjustments to the levels you learned utility Psynergy in the Jack Adept and Toolsmith classes to reduce the odds of sequence breaking without grinding.
-- Made a minor adjustement to fix a boss while I was in the editor.
+-Updated flags with certain Psynergy to make sure they were usable in battle.
 
 # Overview:
 “Golden Sun: Dawn of Djinn” is a remixed version of the first game of the Golden Sun series. Featuring new Djinn, new Psynergy/battle abilities, and new challenges to overcome. Adjustments that tie into battle mechanics have been adjusted as well, not only to give more purpose to various methods of combat, but to encourage the use of features Dawn of Djinn specializes in.  Plus this adventure takes quality of life improvements from mods like the Golden Sun Randomizer and builds off them to make travel outside of battle more enjoyable.
