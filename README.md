@@ -24,11 +24,6 @@ https://discord.com/invite/Bmm9GHSdWD
 	-Visual bugs may occur when using the cutscene-skip patch, as it does speed through some cutscenes faster than the game can handle.
 Additional Bug fixes/rebalances/ mis adjustments listed on the release page.
 
----VERSION 1.1.04--
-Last version 1 update, for real this time.  The only reason this update is happening is because I noticed some pretty dumb oversights as I was comparing it to version 2 that were too bad to ignore.  Nothing game breaking but pretty dumb that I missed them in the first place.
-
--Updated flags with certain Psynergy to make sure they were usable in battle.
-
 # Overview:
 "Golden Sun: Dawn of Djinn" is a ROM hack of GS1 that aims to create an experience where combat feels like a new Golden Sun game, while otherwise maintaining the core elements from GS1. This new "Second Mix" update aims to take this even further by expanding on new elements for players to play with from classes, to abilities, to enemies you face off against. In addition, this mod takes QOL features from the GS Randomizer, such as fast travel, while introducing new elements of its own. New NPCs and books are scattered throughout the land to ease you into changes this mod offers, provide hints, and more. The main story remains the same as the original Golden Sun, but fans may notice slight alterations in dialogue to abridge certain conversations or introduce a side plot or two.
 
