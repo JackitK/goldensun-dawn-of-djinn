@@ -1,13 +1,13 @@
 # Golden Sun: Dawn Of Djinn
 Trailer:
-[ TBA ]
+https://youtu.be/cOLSHrnh2-Q
 
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
 
 
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v 2.0.0 [ Coming Soon ]
+## Latest verison: v 2.0.0
 ---VERSION 2.0.0--
 - First official release of the "Second Mix" version of the mod. Introducing an assortments of updates to PC and enemies to the point that it could be considered a new mod. The most drastic changes include....
 	- New classes for every Djinn combination, including a couple that didn't previously exist in version 1 of Dawn of Djinn. 
