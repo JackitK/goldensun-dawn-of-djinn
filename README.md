@@ -22,21 +22,7 @@ https://discord.com/invite/Bmm9GHSdWD
 	- A small handful of new NPCs have been inserted into Dawn of Djinn for in-universe explanations of Dawn of Djinn changes, a little extra diversity, and perhaps a new side-plot.
 	-An optional patch in the "advance set-up" folder exists to turn dialogue back off and speed-up cutscenes if wished. Keep in mind this will also skip any Dawn of Djinn exclusive additions or modifications to the dialogue as well. 			
 	-Visual bugs may occur when using the cutscene-skip patch, as it does speed through some cutscenes faster than the game can handle.
-Additional Bug fixes/rebalances/ mis adjustments:
-- Casual mode is now a separate patch made for less experienced Golden Sun fans. The shop in Vale now sells a new piece of equipment in place of the former casual key.
-- The Brutal key no longer appears in-game. However, one can apply the brutal charm patch via "Advance set-up" then each party member will start with the brutal key equipped.
-- The quad-elemental class from version 1 has been drastically buffed in terms of stats and has had Psynergy changes, along with the other classes. 
-	-Further testing may be needed to determine if it now stands on its own merits or is just a niche gimmick class with easier access to utility Psynergy.
-- The Hermes Water Tret previously dropped has been removed.
-- The Carry Stone has been restored to its original location in the Venus Lighthouse.
-- Venus Lighthouse cookie glitch has been fixed.
-- Psynergy Equipment have been removed and replaced with normal Psynergy Items.
-- Tier 4 summons have been nerfed to no longer have secondary status effects.
-- Mia can no longer can equip swords, with one exception.
-- Various enemy formations have been adjusted to reduce visual bugs tied to too many enemies on screen at once.
-- Various rebalances to enemies and party character abilities.
-- Various weapons and armor have been rebalanced, if not replaced with new weapons and armor.
-- Likely other adjustments that have been forgotten about due to the long development between updates.
+Additional Bug fixes/rebalances/ mis adjustments listed on the release page.
 
 ---VERSION 1.1.04--
 Last version 1 update, for real this time.  The only reason this update is happening is because I noticed some pretty dumb oversights as I was comparing it to version 2 that were too bad to ignore.  Nothing game breaking but pretty dumb that I missed them in the first place.
