@@ -1,150 +1,111 @@
 # Golden Sun: Dawn Of Djinn
 Trailer:
-https://www.youtube.com/watch?v=TOgLFmqg3tQ
+[ TBA ]
 
 Best course to reach out to me to give feedback and report issues is over at my discord. Invite link below:
 
 
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v1.1.04
+## Latest verison: v 2.0.0 [ Coming Soon ]
+---VERSION 2.0.0--
+- First official release of the "Second Mix" version of the mod. Introducing an assortments of updates to PC and enemies to the point that it could be considered a new mod. The most drastic changes include....
+	- New classes for every Djinn combination, including a couple that didn't previously exist in version 1 of Dawn of Djinn. 
+		-Stats remain the same from the vanilla game, but they all now have different names and different sets of Psynergy to reflect these titles.
+	- Party characters now have a different set of default classes and stats.
+	- A wide assortment of new Psynergy has been added between the new classes and equipment found throughout the game.
+	- Version 1 Djinn have either been rebalanced or replaced.
+	- Djinni Charms have been readjusted. Both in ability and locations they appear throughout the game.
+	- All previous enemies/bosses have been reworked, with new ones sprinkled in throughout the adventure.
+	- Lack of dialogue issue from version 1 releases has been fixed.  
+	-In addition, dialogue both from within the story and with certain NPCs has been adjusted to better reflect Dawn of Djinn features.
+	- A small handful of new NPCs have been inserted into Dawn of Djinn for in-universe explanations of Dawn of Djinn changes, a little extra diversity, and perhaps a new side-plot.
+	-An optional patch in the "advance set-up" folder exists to turn dialogue back off and speed-up cutscenes if wished. Keep in mind this will also skip any Dawn of Djinn exclusive additions or modifications to the dialogue as well. 			
+	-Visual bugs may occur when using the cutscene-skip patch, as it does speed through some cutscenes faster than the game can handle.
+Additional Bug fixes/rebalances/ mis adjustments:
+- Casual mode is now a separate patch made for less experienced Golden Sun fans. The shop in Vale now sells a new piece of equipment in place of the former casual key.
+- The Brutal key no longer appears in-game. However, one can apply the brutal charm patch via "Advance set-up" then each party member will start with the brutal key equipped.
+- The quad-elemental class from version 1 has been drastically buffed in terms of stats and has had Psynergy changes, along with the other classes. 
+	-Further testing may be needed to determine if it now stands on its own merits or is just a niche gimmick class with easier access to utility Psynergy.
+- The Hermes Water Tret previously dropped has been removed.
+- The Carry Stone has been restored to its original location in the Venus Lighthouse.
+- Venus Lighthouse cookie glitch has been fixed.
+- Psynergy Equipment have been removed and replaced with normal Psynergy Items.
+- Tier 4 summons have been nerfed to no longer have secondary status effects.
+- Mia can no longer can equip swords, with one exception.
+- Various enemy formations have been adjusted to reduce visual bugs tied to too many enemies on screen at once.
+- Various rebalances to enemies and party character abilities.
+- Various weapons and armor have been rebalanced, if not replaced with new weapons and armor.
+- Likely other adjustments that have been forgotten about due to the long development between updates.
+
 ---VERSION 1.1.04--
 Last version 1 update, for real this time.  The only reason this update is happening is because I noticed some pretty dumb oversights as I was comparing it to version 2 that were too bad to ignore.  Nothing game breaking but pretty dumb that I missed them in the first place.
 
 -Updated flags with certain Psynergy to make sure they were usable in battle.
 
 # Overview:
-“Golden Sun: Dawn of Djinn” is a remixed version of the first game of the Golden Sun series. Featuring new Djinn, new Psynergy/battle abilities, and new challenges to overcome. Adjustments that tie into battle mechanics have been adjusted as well, not only to give more purpose to various methods of combat, but to encourage the use of features Dawn of Djinn specializes in.  Plus this adventure takes quality of life improvements from mods like the Golden Sun Randomizer and builds off them to make travel outside of battle more enjoyable.
+"Golden Sun: Dawn of Djinn" is a ROM hack of GS1 that aims to create an experience where combat feels like a new Golden Sun game, while otherwise maintaining the core elements from GS1. This new "Second Mix" update aims to take this even further by expanding on new elements for players to play with from classes, to abilities, to enemies you face off against. In addition, this mod takes QOL features from the GS Randomizer, such as fast travel, while introducing new elements of its own. New NPCs and books are scattered throughout the land to ease you into changes this mod offers, provide hints, and more. The main story remains the same as the original Golden Sun, but fans may notice slight alterations in dialogue to abridge certain conversations or introduce a side plot or two.
 
-## Combat:
-New enemies make their debut and returning ones have increased stats from the original adventure. Combat overall feels closer to the challenge of a playthrough of Lost Age's “Hard Mode” than it does the original adventure. Though there are methods to make your adventure easier or harder if desired via purchase & equipment of the "Causal Key" & "Brutal Key" respectfully. All bosses and various enemies also have a new set of moves to use against you.  Many scripted battles have been upgraded to mini-boss status.  All boss fights have been reworked and tested by hand to better fit the new difficulty and mechanics.  They're designed to feel new while still keeping charm of their original battles.
+# Djinni Charms:
+A core mechanic that makes Dawn of Djinn stand out on its own merits is a new-mechanic to the series known as "Djinni Charms". They are Djinn who have not fully awaken, taking the form of an item equipped to your ring slot.  Though not wielding their full powers, they can grant special Psynergy to Adepts when equipped. Only Adepts of the same element can equip them, so Isaac can only equip Venus Djinni Charms, Garret can only equip Mars Djinni Charms, Ivan can equip Jupiter Djinni Charms, and Mia can equip Mercury Djinni Charms.  Furthermore, only one Djinni charm can be equipped to an Adept at a time, so you'll have to consider which charms will best assist you for each situation to get the most out of them. You'll find them throughout your adventure, either on the field or guarded by special Djinn Mimics.
 
+A mysterious warden is also seeking out the Djinni Charms. You may encounter her during her travels, offering advice along the way.
 
-## Abilities:
-Though your party also has some tricks up their sleeve.  While the structure of classes remains relatively unchanged, many of them grant you Psynergy that did not exist in the original adventure. They include both Psynergy that normally only exist in future games, or completely brand new. Though all this powerful Psynergy comes at a cost, as it now cost more to cast than in the original adventure. Thankfully, Dawn of Djinn introduces plenty of ways to assure a prepared Adept never runs out despite the increase cost.  Not only have more items affecting Psynergy recovery been introduced, but there are new abilities that not only recover Psynergy but redistribute it to allies who need it.
+# Adjustments to Party Characters and classes:
+New to version 2, each party member has their default stats and classes changed to give them a different feel from the original game. In addition, Dawn of Djinn features an entirely new family of Djinn to collect, unlocking a new assortment of classes and Psynergy. Certain Psynergy will even upgrade as you reach stronger variations of these classes. The equipment you collect has also been readjusted, if not replaced by brand new equipment. Featuring a vary of new trats for each type of weapon. Along with two brand new types of weapons, gloves and mitts.
 
+# Casual VS Veteran mode:
+When installing Dawn of Djinn, you will have the option between two patches; casual and veteran.  While it would take too long to list every little adjustment between them, the overall differences are as followed.
 
-In addition, adjustments to other methods of combat have been made as well. Weapons have been reworked so each group of them has distinct properties, making you consider more than just which give you the highest attack stat.  For example, there are now many scenarios Axes are even stronger than swords but your speed will drop if you equip them. Or you could prefer equipping an Ankh, not just because it's your only option, but because you prefer their Psynergy recovery properties over a raw attack boost.  In addition Dawn of Djinn offers two new types of weapons, Gloves and Mitts.  They are no longer pieces of armor but weapons with more defensive properties and extra abilities.  Gloves boost defense as well as giving you distinct unleashes and item effects. Mitts are the more magical version of the Gloves.  Boosting elemental resistance, bestowing unique Psynergy for combat, and granting rare unleashes that act like Psynergy in of themselves.
+### Causal Mode: 
+Enemies will have stats closer to those in the base game. In addition, certain skills and abilities will be stronger, along with costing less Psynergy to use. 
+This is the recommended mode for newer Golden Sun fans or who are just more comfortable with base game difficulty. Some optional areas may still pose a bit more challenge than normal.
 
-### New Items:
-Recovery items & consumable items have been adjusted and added as well. There are more types of Psynergy recovery items, in case the increase cost is too overwhelming.  Recovery items as a whole also have a wider variety of effects. Each one is varied enough that even the weakest HP recovery item could have uses late game, depending on the secondary traits you desire. This makes item shops much more useful, as the items don't become completely useless by end game.  Enemies also drop new items including equipment and new battle items.  Every battle item that previously existed has been changed and new battle items have been added as well. While they'll may still get out-powered by late game Psynergy, they are much more interesting than in the vanilla game thanks to their secondary effects.  You'll likely find these very valuable for early/mid-game bosses and may even find scenarios that they're an ideal option even later than that.
+### Veteran Mode: 
+Enemies stats are increased and Psynergy will cost more PP to use. Certain enemies and bosses may have new attack patterns all together. The base power of high tier summons have been nerfed, and other abilities may also be weaken, compared to casual mode. Essentially the difficulty of version 1 of Dawn of Djinn, with some rebalancing, aiming to have a similar feel to the challenge offered by Lost Age's hard mode.
+This is recommended for Golden Sun fans already familiar with Dawn of Djinn or who find base Golden Sun too easy.
 
-### Djinn and Summon Updates
-Last but not least, are the namesakes of this adventure, the Djinn.  With only a couple exceptions, every Djinn in Dawn of Djinn is brand new to this adventure. Featuring a combination of  abilities reworked to be more viable and brand new Djinn abilities for you to use.  Their overall increase in power should help encourage their use, despite all the mechanics in the series that encourage you to keep them set. Players who find a good balance between using Psynergy, using Djinn, and summoning to get them back on “set”, will be rewarded the most by the mechanics of Dawn of Djinn.   
-
-
-Speaking of summons, tier 4 summons have been reduced in power.  However, this isn't exactly a nerf as they trade their extra power for new secondary effects that may trigger.
--Judgement can haunt foes
--Boreas can cause sleep 
--Meteor can seal Psynergy
--Thor can stun foes
-
-It could be a way to hinder a group of enemies in a pinch. The goal isn't to make Summons weak, as much as it is to keep them from outshining other methods of combat in the game. Granted, they're still plenty powerful and there will be many scenarios where they're still the optimal form of damage.  But especially late game, as your other abilities get stronger, it should help other mechanics in this adventure shine. And more importantly, force you to be more strategic with when you do it, especially with the facts enemies already hit harder making the drawbacks of setting up for them more apparent.
-
-
-### Djinni Charms:
-In addition to the upgraded Djinn, Dawn of Djinn introduces a brand-new mechanic call the "Djinni Charms".  They are essentially Djinn in a crystallized form, either because they've been weakened or have yet to fully awaken.  Though not wielding their full powers, they can grant an ability to an Adept of their element if they equip them and lend their Psynergy to them. Only Adepts of the same element can equip them, so Isaac can only equip Venus Djinni Charms, Garret can only equip Mars Djinni Charms, Ivan can equip Jupiter Djinni Charms, and Mia can equip Mercury Djinni Charms.  Furthermore, only one Djinni charm can be equipped to an Adept at a time, so you'll have to consider which charms will best assist you for each situation to get the most out of them.
-
-### Djinni Mimics
-Djinni Charms can be found throughout your adventure, though you are not the only one seeking them. Some are already in possession of monsters known as Djinni Mimics.  Like normal Mimics, they first appear to be ordinary treasure chests.  If you engage one, they will immediately attack you and wield the elemental powers of the Djinn they've captured.  If you defeat one, you'll be granted with the Djinni they possessed in the form of a Djinni Charm.
-
-## Adjustments to Overworld Abilities/Quality of Life Updates:
-While majority of updates to Dawn of Djinn tie to combat, there are a few field exclusive updates.  
-
-### Retreat
-Retreat not only warps you to the start of a dungeon or town but now functions similarly to teleport when used on the world map.  Using Retreat pulls up the map and you can select any town that you've previously visited to instantly return there.  The linearity of Golden Sun doesn't make this as needed as other RPGs, but it does open up some options that would be unreasonable in the original game, such as Retreating back to Imil to restock on Hermes Water.   
-
-### Avoid
-Avoid now behaves as a random encounter toggle rather than a wear off effect.  Using it once turns off 100% of random encounters, using it again turns them back on.  The adventure was built and play tested around fighting all of your encounters, and there are some bugs making it hard to toggle encounters back on that can result from saving and quitting the game while you still have Avoid on. So I'd personally recommend only turning Avoid on for backtracking for a smooth, grind-less experience. Though the option is there for people who want to use it.
-
-Speaking of grinding, the mod has been design in a way where despite the challenge, grinding shouldn't be needed anything needed to see the credits as long as Avoid is used sparingly.  Main areas I felt the need to grind is for the optional dungeon of super bosses, and maybe a little with Grand Djinn.  Especially if you try them as soon as you see them isntead of waiting until you've done everything else in the Venus Lighthouse first. General end-game level is around Lv. 25, level 27 if you do all the optional content such as Grand Djinn fights and everything minus the final battles of the optional super dungeon. Enemies in around the final third of the game now give more experience to make the transition to these levels more natural as the final level your party learns new abilites is Level 30.
-
-### Default Psynergy
-Building off the built in Psynergy the Randomizer provided, many utility Psynergy like Growth, Whirlwind, and even Avoid are built right into party members so they have them, regardless of your class. In addition, Psynergy not tied to battle no longer cost Psynergy to use. Though they have different names to distinguish from their battle equivalents. For example in battle Growth still cost Psynergy to use, but outside of battle it is refer to as “Sprout” but otherwise functions the same.
-
-### Psynergy Items
-Psynergy items also behave differently as well.  Often when you first encounter them they won't be items, but rather weapons and armor you can equip to party members to get the effect without wasting an extra item slot.  When the equipment becomes out-classed, you can sell it at a shop and a more traditional Psynergy item will appear in any item shop's Artifact section. You can sell and re-buy the items as you please, freeing up inventory space if you're familiar enough with the game to know when you do and don't need them.  As a fail safe, there are two new classes, Jack Adept & Toolsmith respectfully, that give you access to the majority of these Psynergy around the level/Djinn requirement you would be at when you obtain these items normally. Have some of the weakest stats of all classes, it's not ideal for battle, but it does get access to some unique Psynergy and slightly varies between which Adepts are in it.
+### Brutal key add-on: 
+If you chose to use the advance set-up, there will be an add-on patch you can include called "Brutal Charm Patch". This will start you off with an optional piece of equipment for each of your party members known as the brutal charm/brutal key. This item decreases all your stats via a multiplier for as long as its equipped and does not affect your other equipment. It is highly advise to NOT use this equipment on a first playthrough. However, if you find veteran mode to not be enough of a challenge for you, this is the simplest way to add some extra challenge to your playthrough. Note this item has not been play tested in all battles yet, so its possible that some battles are impossible to beat with the brutal charm equipped.
 
 # Known Bugs/Issues
 - Occansional visual effects when using Retreat in the overworld. I believe this is a carry over from the Golden Sun Randomizer and if so, I'm not sure if I have the ability to fix it.
-- I feel fairly certain that there are some visual bugs and occasional moments of lag caused the amount of extras I added into the game's "code". Though there is a chance that may just be caused by the software I use to run it and not the mod itself.  I will attempt to fix it as I'm reworking version 2.0 as I'll be better able to opitmize the space I already have.
-- Certain enemy encounters may defend when intending some other action.  This is most common with enemies that use more items than they normally would.  I've adjusted some enemy patterns to reduce this issue, but I'm not certain if I got all of them.
-- NPCs aren't affected by Mind Read minus the one where mind-reading is needed for progression.  I believe this is a carry-over from the dialouge disabling patch the Golden Sun Randomizer I worked off of applies, and will be fixed in Version 2.0 and up as I intend to include the dialouge by default and include a patch that disables it after the fact. 
-- There is also a puzzle in the Venus Lighthouse that you would normally need Mind Read to solve. However, I've adjusted the puzzle so that it could be solved without it.
--Avoid can be buggy with it's new implementation.  If one saves and quits the game while Avoid is still toogled on, they may have problems turning it back off once they reopen the game. Most consistant soultion I've discovered to fixed this from a player's end is to toogle it on and off, transition to a new area, toogle it on and off again. If done correctly, this will make it toggle like normal.  As for correcting this problem from the creator side. I'm not sure if this is possible as the Avoid changes were carried over from the Golden Sun Randomizer and I don't have access to the orginal code.  Best measure of avoiding this issue is to make sure it's off before saving the game.
-- Due to an oversite in how items are used in cutscenes, this happens during the cutscene inbetween boss fights on the Venus Lighthouse... https://www.youtube.com/watch?v=gHMQ3hvriHo  ...I think I'm just going to leave it in until the release of version 2 because for one, I'm going to have to rework items from scratch in Version 2.0 anyways, and two, it's funny.
-- I'm almost certain that certain that certain mechanics are going to need to be rebalanced, despite my long period of playtesting.  Playtesting was focused more on making sure bosses were more of a challenge than Vanilla Golden Sun, but not impossible to beat.  Testing and adjusting balance between the various mechanics had minor presence but was not the main focus.
-- For example, summons still do more damage than I was expecting with the nerf to their power, so I am considering reworking that entire system for Version 2.
-- I'm sure there's other oversights that I've discovered but can't remember at this moment. I'll be sure to update this read-me as I remember them and as others discover them in thier playthrough.
-- Some typos were found in in-game text used in the trailer. These have been fixed in the latest patch.
--**NEW** Isaac and Mia's quad elemental classes previously required more Djinn than the other party members.  However this has been fixed in version 1.1.00.
-	TBH I was content playing this off as a feature but since I was given a lead to how to fix it, I went ahead and did so.
+- Avoid can be buggy with it's new implementation.  If one saves and quits the game while Avoid is still toogled on, they may have problems turning it back off once they reopen the game. Most consistant soultion I've discovered to fixed this from a player's end is to toogle it on and off, transition to a new area, toogle it on and off again. If done correctly, this will make it toggle like normal.  As for correcting this problem from the creator side. I'm not sure if this is possible as the Avoid changes were carried over from the Golden Sun Randomizer and I don't have access to the orginal code.  Best measure of avoiding this issue is to make sure it's off before saving the game.
+- Various visual bugs if the cutscene skip patch is applied. Nothing that affects gameplay.
 
 # FAQ
-
 ### How do I install and play Dawn of Djinn?
-1.) Download the patch.
-2.) Have your copy of Golden Sun for the GBA ready
-	-Make sure you use a clean copy, patching something already patched is not recommended.
-3.) Use Lunar IPS to patch it to your copy of Golden Sun
 
+1.) Download either the casual or veteran patch of Golden Sun Dawn of Djinn.
+- If you prefer more advance settings, such as auto run, cutscene skip, or starting off with the brutal charm, download the "Advance Set-up" zip file and view the Read-me file included in that folder instead.
+
+2.) Have your copy of Golden Sun for the GBA ready
+- Make sure you use a clean copy, patching something already patched is not recommended.
+
+3.) Use Lunar IPS to patch of Golden Sun with the chosen version of Dawn of Djinn.
 
 ### Is Dawn of Djinn hard?
-- Dawn of Djinn by default is harder than the orginal Golden Sun, but is not intended to be "brutally hard". For example I think it's slightly easier than Golden Sun Reloaded.
--Previous experience with the Golden Sun series is recommended. Though a more casual experience of the series should be acceptable with use of the casual key.
-- Dawn of Djinn goes under the assumption that you have collected but the 4 "Grand Djinn" before taking on the final boss and all Djinn before taking on the super boss.
-
-On average, monster's stats are mutiplied similarly to how they are in Lost Age's hard mode. Though movepools
-have been changed to make them more capable than normal, including with bosses.
-
-However, if you find a normal playthrough of this mod to be too easy or hard, you can artificially adjust
-the difficulty by equipping either the "Casual Key" or the "Brutal Key" to all your party members.
-
-
-### How do the Brutal Key and Casual Key Affect Combat?
-When equipped, the Casual Key will boost your stats similarly to how the enemies are boosted in this mod,
-plus gives a multiplier on your max PP to compensate for Psynergy costing more to cast in this mod.
-It also has an outside of battle use that will recover all of your party's Psynergy, in case you prefer
-RPGs where you only have to manage your stats during battle. It is completely optional to use.
-The Brutal Key divides your stats, making you weaker than when unequipped.
-
-
-### Where do I find the Brutal/Casual Key?
-In Vale, the shop has been readjusted to have both these key items in their armor section for free.
-You'll also find the Casual Key in Vault's shop, in case you forget to backtrack.
-
-
-
-### How does equipping Djinn Charms work?
-Djinn charm are elementally aligned, meaning they can only be equipped by an Adept that shares there element.
-Only Isaac can equip Venus Charms, Garret to Mars, Ivan to Jupiter, and Mia to Mercury.
-Furthermore, Djinn Charms count as a ring equipment, meaning you can only have one equipped at a time, and trying
-equip an actually ring item unequips the Djinn Charm.
-
-
-### Where's the dialogue?
-For the sake of easier playtesting, I used a version of Golden Sun that had dialogue turned off for all my work with Version 1.0...
-Due to the nature of working off a copy of Golden Sun that already had the dialogue remove, rather than patching it out myself, I have
-to basically start with a fresh new patch in order to make a version with the dialogue on.  So a dialogue version of the mod is planned for the 2.0 release along with all the additional updates and features planned for version 2... whenever I get around to making it.
+Veteran version is about the difficulty of Lost Age Hard Mode, while casual is around on the difficulty of base Golden Sun. Though in both scenarios, certain fights in optional areas may be harder than usual.
 
 ### Avoid toggles on and off but monster encounters are still gone, how do I fix this?
-This is bug seems to be caused by saving and quitting the game while avoid is still toggled on.
-So first and foremost, getting in the habit of turning off Avoid when you don't need it can be helpful.
-If you do run into this bug however it is fixable with a little work.
--First toggle Avoid on and off a couple times
--Transition to a new screen, either by entering a town/dungeon or entering the overworld.
--When you toggle Avoid off now, monsters should appear like normal.
 
-
-### Soo..umm..sometimes the sprites of enemies and party members disappear in battle. Is this supposed to happen?
-No, but I can't fix all of them.  If it happens in a random encounter, it was likely an oversight
-of trying to squeeze too many enemies into that fight and I can adjust it with feedback.  
-If it happens during a boss fight, I likely already noticed it but decided not to fix it due to it having too
-big of impact on the fight if I flat out removed an enemy.
-
+- First toggle Avoid on and off a couple times
+- Transition to a new screen, either by entering a town/dungeon or entering the overworld.
+- When you toggle Avoid off now, monsters should appear like normal.
+This bug most commonly happens if you save and quit while Avoid is still on. So turning Avoid off when not in use is a good way to reduce the issue.
 
 ### How do I progress through ____?
-Lack of dialogue in version 1 may make certain plot areas a little obtuse.
-Feel free to reference the "Event Trigger Notes" text file if you get stuck on your adventure.
-In addition there are other text files included in the care package that act as Cheat Sheets for Djinn,
-Djinn Charms, and Monster drops if you don't mind the spoilers, and I may add more in the future.
+While the ability to fast travel freely may allow you to access certain areas sooner than normal, certain in-game flags may result in you getting stuck if you travel too far off the beaten path. A common example of this players trying to get to Vault Cave immediately after learning Reveal. An in-game flag prevents this area from being accessible until after clearing Lamakan Desert, regardless on if you have Reveal or not. So if you find yourself stumped when going out of order, try going back to progress the plot through normal means to see if that alleviates your issue.
+
+### Where is Bilbin Barricade?
+In the Golden Sun Randomizer Bilbin Barricade is removed from the game to create a fast travel point to Crossbone Isles. Since I took I crudely took the code for Fast Travel from the Randomizer to implement the feature into Dawn of Djinn, this carries over to Dawn of Djinn's equivalent as well. This cannot be changed without removing fast travel, so I do not have intentions on restoring this area back into the mod.
+
+### In regards to adventuring after beating the final boss:
+Unlike base Golden Sun, you can leave town after beating the final boss to take care of any unfinished business, such as clearing optional areas. When you are ready to play the credits, go to Babi's hidden boat per usual and use the Black Orb.  Note that once you do, that is a point of no return so it is advise to make sure you reclaim any Djinn charms you may have "stored" in the artifact shop before triggering that scene.
+
+### How can I transfer my progress from Dawn of Djinn into the Lost Age?
+The short answer: You can't. As of now, Dawn of Djinn is a standalone Golden Sun 1 mod. 
+If you wish to play base Lost Age after words, I would advise only using either the Bronze or Silver password. As transferring items may glitch out your inventory in the process.
+
+### Going into more details: 
+I do intend to still make some updates to Dawn of Djinn, especially if something critical pops up. However, I currently do not want to promise a Lost Age equivalent to Dawn of Djinn. I want to focus more time with Game Development, beyond modding. While I am considering a continuation into The Lost Age, I cannot confirm it will happen at this time. I have priorities at this time, so I rather not promise anything currently. Hopefully you'll understand why I'm conflicted about confirming or denying the future of Dawn of Djinn at this time.
