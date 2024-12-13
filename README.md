@@ -7,8 +7,8 @@ Best course to reach out to me to give feedback and report issues is over at my 
 
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v 2.0.0
----VERSION 2.0.0--
+## Latest verison: v 2.0.2h
+---VERSION 2.0.2--
 - First official release of the "Second Mix" version of the mod. Introducing an assortments of updates to PC and enemies to the point that it could be considered a new mod. The most drastic changes include....
 	- New classes for every Djinn combination, including a couple that didn't previously exist in version 1 of Dawn of Djinn. 
 		-Stats remain the same from the vanilla game, but they all now have different names and different sets of Psynergy to reflect these titles.
