@@ -7,8 +7,8 @@ Best course to reach out to me to give feedback and report issues is over at my 
 
 https://discord.com/invite/Bmm9GHSdWD
 
-## Latest verison: v 2.0.3
----VERSION 2.0.3--
+## Latest verison: v 2.0.4
+---VERSION 2.0.4--
 - First official release of the "Second Mix" version of the mod. Introducing an assortments of updates to PC and enemies to the point that it could be considered a new mod. The most drastic changes include....
 	- New classes for every Djinn combination, including a couple that didn't previously exist in version 1 of Dawn of Djinn. 
 		-Stats remain the same from the vanilla game, but they all now have different names and different sets of Psynergy to reflect these titles.
@@ -23,6 +23,9 @@ https://discord.com/invite/Bmm9GHSdWD
 	-An optional patch in the "advance set-up" folder exists to turn dialogue back off and speed-up cutscenes if wished. Keep in mind this will also skip any Dawn of Djinn exclusive additions or modifications to the dialogue as well. 			
 	-Visual bugs may occur when using the cutscene-skip patch, as it does speed through some cutscenes faster than the game can handle.
 Additional Bug fixes/rebalances/ mis adjustments listed on the release page.
+--Latest version specific updates:
+- Fixed a bug where an enemy appears in the overworld outside of Bilbin much earlier than its supposed
+- Fixed a version 2.0.3 specific bug that reverted the DoD text changes to a pre-2.0 release build, resulting in dialouge for new Vault NPCs not being set to vanilla game dialogue, rather than Dawn of Djinn specific dialouge.
 
 # Overview:
 "Golden Sun: Dawn of Djinn" is a ROM hack of GS1 that aims to create an experience where combat feels like a new Golden Sun game, while otherwise maintaining the core elements from GS1. This new "Second Mix" update aims to take this even further by expanding on new elements for players to play with from classes, to abilities, to enemies you face off against. In addition, this mod takes QOL features from the GS Randomizer, such as fast travel, while introducing new elements of its own. New NPCs and books are scattered throughout the land to ease you into changes this mod offers, provide hints, and more. The main story remains the same as the original Golden Sun, but fans may notice slight alterations in dialogue to abridge certain conversations or introduce a side plot or two.
