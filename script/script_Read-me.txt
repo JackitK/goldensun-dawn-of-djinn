@@ -1,0 +1,1 @@
+For use with the gstoolkit editor. This script does not contain all my text edits to GS Dawn of Djinn but was the most recent file I had before I lost my files in a hardrive corruption. Overrides text edits made with tools like Altrus editor.
